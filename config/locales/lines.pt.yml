@@ -53,12 +53,12 @@ en:
         email: 'E-Mail'
         gplus_profile: 'Website'
       lines/article:
-        title: 'Title'
-        sub_title: 'Subtitle'
+        title: 'Título'
+        sub_title: 'Subtítulo'
         teaser: 'Teaser'
-        content: 'Body copy'
+        content: 'Conteúdo'
         gplus_url: 'Website'
-        author_ids: 'Authors'
+        author_ids: 'Autores'
       lines/user:
         email: 'E-Mail'
         password: 'Password'
