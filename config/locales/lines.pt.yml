@@ -1,0 +1,64 @@
+en:
+  lines:
+    buttons:
+      new_article: 'Criar Artigo'
+      all_articles: 'All Articles'
+      dashboard: 'Artigos'
+      visit_blog: 'Blog'
+      edit_article: 'Editar Artigo'
+      save_article: 'Salvar'
+      cancel: 'Cancelar'
+      edit: 'Editar'
+      preview: 'Pré-visualizar'
+      all_authors: 'Todos os autores'
+      new_author: 'Novo autor'
+      edit_author: 'Editar autor'
+      save_author: 'Savar Autor'
+      author: 'Autor'
+      publish: 'Publicar'
+      unpublish: 'Retirar artigo do ar'
+      change_attachment: 'Change attachment'
+      remove_attachment: 'Remove attachment'
+      attach_document: 'Fazer upload de arquivo'
+      upload_image: 'Escolher imagem do disco local'
+      remove_hero_image: 'Remover avatar'
+      select_hero_image: 'Selecionar seu avatar'
+      change: 'Escolher imagem'
+      insert_image: 'Inserir imagem'
+      login: 'Entrar'
+      logout: 'Sair'
+      formating_help: 'Formatting Help'
+      about: 'About Lines'
+
+    published_articles: 'Artigos Publicados'
+    unpublished_articles: 'Artigos não publicados'
+    confirm: 'Você tem certeza?'
+    additional_info: 'Informações adicionais'
+    forgot_password: 'Esqueceu a senha?'
+    or: 'or'
+    go_back_to_blog: 'voltar ao blog.'
+    please_login: 'Por favor, faça login para acessar a área do administrador.'
+    login_error: 'Email ou senha inválido'
+    logged_in_as: 'Acesso como'
+
+  activerecord:
+    models:
+      lines/author:
+        one: 'Author'
+        other: 'Authors'
+      linens/article: 'Article'
+    attributes:
+      lines/author:
+        description: 'Description'
+        email: 'E-Mail'
+        gplus_profile: 'Website'
+      lines/article:
+        title: 'Title'
+        sub_title: 'Subtitle'
+        teaser: 'Teaser'
+        content: 'Body copy'
+        gplus_url: 'Website'
+        author_ids: 'Authors'
+      lines/user:
+        email: 'E-Mail'
+        password: 'Password'
