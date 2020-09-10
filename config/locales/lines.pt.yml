@@ -27,8 +27,8 @@ en:
       insert_image: 'Inserir imagem'
       login: 'Entrar'
       logout: 'Sair'
-      formating_help: 'Formatting Help'
-      about: 'About Lines'
+      formating_help: 'Comandos do Markdown'
+      about: 'Sobre o Lines cms'
 
     published_articles: 'Artigos Publicados'
     unpublished_articles: 'Artigos não publicados'
