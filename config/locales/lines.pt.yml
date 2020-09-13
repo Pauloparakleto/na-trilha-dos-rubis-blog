@@ -35,17 +35,18 @@ en:
     confirm: 'Você tem certeza?'
     additional_info: 'Informações adicionais'
     forgot_password: 'Esqueceu a senha?'
-    or: 'or'
+    or: 'ou'
     go_back_to_blog: 'voltar ao blog.'
     please_login: 'Por favor, faça login para acessar a área do administrador.'
     login_error: 'Email ou senha inválido'
     logged_in_as: 'Acesso como'
+    login_as_admin: 'Login como administrador'
 
   activerecord:
     models:
       lines/author:
-        one: 'Author'
-        other: 'Authors'
+        one: 'Autor'
+        other: 'Autores'
       linens/article: 'Article'
     attributes:
       lines/author:
